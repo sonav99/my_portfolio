@@ -304,3 +304,70 @@ h1{
   padding: 5rem 3rem;
 }
  }
+@media (max-width:30rem ){
+  
+  .navbar ul li a{
+    font-size: 1.6rem;
+  }
+  .navbar ul li{
+   padding-right: 2.3rem;
+  }
+   .left{
+  font-size: 2.5rem;
+
+}
+.name{
+  font-size: 2rem;
+  left: 3rem;
+  width: 42%;
+}
+.name span{
+  font-size: 4rem;
+  padding-left: 1rem;
+}
+.intro{
+  font-size: 1.3rem;
+  width: 30rem;
+  left: 3rem;
+  width: 50%;
+}
+.contact{
+  left: 5rem;
+  width: 80%;
+}
+.photo1{
+  left: 20rem ;
+  top: -8rem;
+  height: 27rem;
+  width: 27rem;
+}
+.photo2{
+  left: 25rem;
+    height: 33rem;
+    width: 19rem;
+    top: 12rem;
+ 
+}
+.container{
+  width: 100%;
+  top: 20rem;
+}
+.section2{
+width: 111rem;
+}
+h1{
+  left: 3rem;
+  font-size: 3rem;
+}
+.introduction{
+  left: 0rem;
+    font-size: 1.2rem;
+    width: 17rem;
+    height: 31rem;
+    top:11rem;
+}
+.area div{
+  padding: 5rem 1rem ;
+  font-size: 1rem;
+}
+ }
