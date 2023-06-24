@@ -284,12 +284,7 @@ h1{
     top: 16rem;
  
 }
-.body{
-  width: 211rem;
-}
-.section2{
-width: 111rem;
-}
+
 h1{
   left: 5rem;
   font-size: 5rem;
@@ -300,20 +295,28 @@ h1{
     width: 30rem;
     height: 34rem
 }
+.introduction p{
+  padding: 2rem;
+  color: white;
+  
+}
 .area div{
   padding: 5rem 3rem;
 }
- }
-@media (max-width:35rem ) and (min-width:25rem){
+}
+
+ 
+ @media (max-width:35rem ) and (min-width:26rem){
   
   .navbar ul li a{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
   }
   .navbar ul li{
-   padding-right: 2.3rem;
+   padding-right: 1rem;
   }
-   .left{
-  font-size: 2.5rem;
+   .left img{
+  top: -2rem;
+  left: -2rem;
 
 }
 .name{
@@ -335,14 +338,18 @@ h1{
   left: 5rem;
   width: 80%;
 }
+.contact img{
+  height: 2rem;
+  width: 2rem;
+}
 .photo1{
-  left: 20rem ;
+  left: 19rem ;
   top: -8rem;
-  height: 27rem;
-  width: 27rem;
+  height: 23rem;
+  width: 23rem;
 }
 .photo2{
-  left: 25rem;
+  left: 22rem;
     height: 33rem;
     width: 19rem;
     top: 12rem;
@@ -365,6 +372,90 @@ h1{
     width: 17rem;
     height: 31rem;
     top:11rem;
+}
+.introduction p{
+  padding: 3rem;
+  color: white;
+  
+}
+.area div{
+  padding: 5rem 1rem ;
+  font-size: 1rem;
+}
+}
+
+ @media (max-width:26rem ) and (min-width:20rem){
+  
+  .navbar ul li a{
+    font-size: 1.2rem;
+  }
+  .navbar ul li{
+   padding-right: 1rem;
+  }
+   .left img{
+  top: -2rem;
+  left: -2rem;
+
+}
+.name{
+  font-size: 2rem;
+  left: 3rem;
+  width: 42%;
+}
+.name span{
+  font-size: 4rem;
+  padding-left: 1rem;
+}
+.intro{
+  font-size: 1.3rem;
+  width: 30rem;
+  left: 3rem;
+  width: 50%;
+}
+.contact{
+  left: 5rem;
+  width: 80%;
+}
+.contact img{
+  height: 2rem;
+  width: 2rem;
+}
+.photo1{
+  left: 20rem ;
+  top: -8rem;
+  height: 25rem;
+  width: 15rem;
+}
+.photo2{
+  left: 20rem;
+    height: 32rem;
+    width: 14rem;
+    top: 12rem;
+ 
+}
+.container{
+  width: 100%;
+  top: 20rem;
+}
+.section2{
+width: 111rem;
+}
+h1{
+  left: 3rem;
+  font-size: 3rem;
+}
+.introduction{
+  left: 0rem;
+    font-size: 1.2rem;
+    width: 17rem;
+    height: 31rem;
+    top:11rem;
+}
+
+.introduction p{
+  padding: 1rem;
+  color: white;
+  
 }
 .area div{
   padding: 5rem 1rem ;
