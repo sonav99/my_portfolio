@@ -180,7 +180,7 @@ position: relative;
  .area p a:active{
    color: red;
  }
-@media screen and (max-width: 44rem) and (min-width: 10rem)
+@media screen and (max-width: 44rem) and (min-width: 35rem)
 {
   
   .navbar ul li a{
@@ -304,7 +304,7 @@ h1{
   padding: 5rem 3rem;
 }
  }
-@media (max-width:30rem ){
+@media (max-width:35rem ) and (min-width:25rem){
   
   .navbar ul li a{
     font-size: 1.6rem;
