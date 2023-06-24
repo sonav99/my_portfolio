@@ -225,9 +225,7 @@ position: relative;
 .body{
   width: 211rem;
 }
-.section2{
-width: 111rem;
-}
+
 h1{
   left: 3rem;
   font-size: 5rem;
@@ -359,9 +357,7 @@ h1{
   width: 100%;
   top: 20rem;
 }
-.section2{
-width: 111rem;
-}
+
 h1{
   left: 3rem;
   font-size: 3rem;
@@ -437,9 +433,7 @@ h1{
   width: 100%;
   top: 20rem;
 }
-.section2{
-width: 111rem;
-}
+
 h1{
   left: 3rem;
   font-size: 3rem;
@@ -448,8 +442,8 @@ h1{
   left: 0rem;
     font-size: 1.2rem;
     width: 17rem;
-    height: 31rem;
-    top:11rem;
+    height: 21rem;
+    top:13rem;
 }
 
 .introduction p{
@@ -460,5 +454,11 @@ h1{
 .area div{
   padding: 5rem 1rem ;
   font-size: 1rem;
+}
+     #section3 h2{
+  font-size: 2rem;
+}
+#section2{
+  height: 555px;
 }
  }
